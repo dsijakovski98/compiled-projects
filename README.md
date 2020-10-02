@@ -2,14 +2,6 @@
 
 Repo containing links to fun projects hosted on [Github Pages](https://pages.github.com/)
 
-## Table of contents
-
-#### 1. [Introduction](#intro)
-   * ##### [ReactJS projects](#reactprojects)
-   * ##### [HTML-CSS-JS projects](#htmlprojects)
-   * ##### [p5.js projects](#p5jsprojects)
-#### 2. [Inspiration](#inspiration)
-
 ---
 
 ## Quick introduction
