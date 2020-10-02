@@ -6,7 +6,7 @@ Repo containing links to fun projects hosted on [Github Pages](https://pages.git
 
 ## Quick introduction
 
-Hi there! :wave: My name is **Даниел Шијаковски** and I am a 4th year student at the Faculty of Electrical Engineering and Information Technologies - [FEIT](https://feit.ukim.edu.mk/en) . \
+Hi there! :wave: My name is **[Даниел Шијаковски](https://github.com/dsijakovski98)** and I am a 4th year student at the Faculty of Electrical Engineering and Information Technologies - [FEIT](https://feit.ukim.edu.mk/en) . \
 I've compiled a list of my favorite projects made using the [ReactJS](https://reactjs.org/) and [p5.js](https://p5js.org/) JavaScript libraries.
 
 ---
