@@ -6,7 +6,7 @@ Repo containing links to fun projects hosted on [Github Pages](https://pages.git
 
 ## Quick introduction
 
-My name is **Даниел Шијаковски** and I am a 4th year student at the Faculty of Electrical Engineering and Information Technologies - [FEIT](https://feit.ukim.edu.mk/en) . \
+Hi there! :wave: My name is **Даниел Шијаковски** and I am a 4th year student at the Faculty of Electrical Engineering and Information Technologies - [FEIT](https://feit.ukim.edu.mk/en) . \
 I've compiled a list of my favorite projects made using the [ReactJS](https://reactjs.org/) and [p5.js](https://p5js.org/) JavaScript libraries.
 
 ---
@@ -28,11 +28,10 @@ I've compiled a list of my favorite projects made using the [ReactJS](https://re
 
 ### 2. Popovi winery - web site for a Macedonian winery
    
- This website is a part of a project involving my college and   
- [Creative Hub](https://www.creativehub.mk/) - Web Design and Development Academy. 5 students (including me) were given a local company to make a web site for.   
+ This website is a part of a project involving my college and [Creative Hub](https://www.creativehub.mk/) - Web Design and Development Academy. 5 students (including me) were given a local company to make a web site for.   
 This project is a remake of an already existing hosted site [link here](http://www.popoviwine.com/index.html).
 
- \- Repo link **[popovi-winery repo](https://github.com/dsijakovski98/melo-d-app/)**
+ \- Repo link **[popovi-winery repo](https://github.com/dsijakovski98/popovi-winery/)**
 
 #### Technologies/libraries
 * [ReactJS](https://reactjs.org/) - UI
@@ -42,7 +41,7 @@ This project is a remake of an already existing hosted site [link here](http://w
 #### Github Pages hosting at the following link **[Popovi Winery](https://dsijakovski98.github.io/popovi-winery/)**
 
 ### 3. ~~ToDo-app~~ 
-#####  No to-do app, due to market saturation :smile:
+#####  No To-Do app, due to market saturation :smile:
 ----
 
 * ## HTML5-CSS3-JS projects
@@ -50,7 +49,7 @@ This project is a remake of an already existing hosted site [link here](http://w
 
 ###### **Маџун** - type of honey made out of grape 
    
-This web site is also a part of the project in collaboration with [Creative Hub](https://www.creativehub.mk/) and is essentially a landing page for the company [Divinium Prime](https://divinumprime.com/). It is my first web site project of this type.
+This web site is also a part of the project in collaboration with [Creative Hub](https://www.creativehub.mk/) and is essentially a landing page for the company [Divinium Prime](https://divinumprime.com/). It is ***my first web site project*** of this type.
 
  \- Repo link **[divinium-prime-madzun](https://github.com/dsijakovski98/divinium-prime-madzun/)**
 
@@ -103,7 +102,7 @@ Not much to say about this one. The legendary game of Tetris made using JavaScri
 
 Another classic video game remake: connect 4 pods in a row (either horizontally, vertically or diagonally) to win the game!
 
-###### Currently working on implementing minimax algorithm for playing against AI
+###### Currently working on implementing the minimax algorithm to play against an AI
 
  \- Repo link **[Connect-4](https://github.com/dsijakovski98/Connect-4/)**
 
@@ -134,7 +133,7 @@ This is my third and (for now) final project following the ***old school video g
 
 ### 5. Fireflies - genetic algorithm implementation example
 
-This project is an implementation of a classic genetic algorithm. Particles (fireflies) are trying to reach the goal by learning to move through the space on the screen. You can place obstacles for the fireflies by creating rectangles with click-and-drag
+This project is an implementation of a classic genetic algorithm. Particles (fireflies) are trying to reach the goal by learning to move through the space on the screen. You can place obstacles for the fireflies by creating rectangles with click-and-drag.
 
 
  \- Repo link **[Fireflies-GeneticAlgorithm](https://github.com/dsijakovski98/Fireflies-GeneticAlgorithm)**
@@ -154,9 +153,9 @@ This project is an implementation of a classic genetic algorithm. Particles (fir
 
 Just a quick list of the people/channels I've been inspired by throughout my programming journey
 
-* #### *Daniel Shiffman* - [The Coding Train](https://thecodingtrain.com/)
-* #### *Evan* - [Mr. Code Bullet](https://thebigcb.com/)
-* #### *Dev Ed* - [Dev Ed Website](https://developedbyed.com/)
-* #### *The Net Ninja* - [Net Ninja Website](https://www.thenetninja.co.uk/)
+* #### *Daniel Shiffman* :rainbow: - [The Coding Train](https://thecodingtrain.com/)
+* #### *Evan* :tv: - [Mr. Code Bullet](https://thebigcb.com/)
+* #### *Dev Ed* :bulb: - [Dev Ed Website](https://developedbyed.com/)
+* #### *The Net Ninja* :fire: - [Net Ninja Website](https://www.thenetninja.co.uk/)
 * #### *Brackeys* :heart: - [Brackeys Website](https://brackeys.com/)
-* #### The great folks at *Computerphile* - [Youtube channel](https://www.youtube.com/user/Computerphile)
+* #### The great folks at *Computerphile* :computer: - [Youtube channel](https://www.youtube.com/user/Computerphile)
