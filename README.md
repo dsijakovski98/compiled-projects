@@ -72,7 +72,7 @@ This web site is also a part of the project in collaboration with [Creative Hub]
 
 ### 1. Space Invaders - Atari video game remake  
    
-My first ever attempt at making video game, this is a 3 level, 2D, shoot 'em up game made entirely using JavaScript. I was inspired to make this while watching my namesake and favourite programmer, Daniel Shiffman a.k.a. [The Coding Train](https://thecodingtrain.com/).
+My first ever attempt at making a video game, this is a 3 level, 2D, shoot 'em up game made entirely using JavaScript. I was inspired to make this while watching my namesake and favourite programmer, Daniel Shiffman a.k.a. [The Coding Train](https://thecodingtrain.com/).
 
  \- Repo link **[Space-Invaders-game](https://github.com/dsijakovski98/Space-Invaders-game)**
 
