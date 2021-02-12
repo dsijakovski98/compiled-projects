@@ -64,7 +64,7 @@ This project is a remake of an already existing hosted site [link here](http://w
 ----
 
 * ## HTML5-CSS3-JS projects
-### 4. Divinium Prime - web site for a Macedonian company selling *маџун*
+### 1. Divinium Prime - web site for a Macedonian company selling *маџун*
 
 ###### **Маџун** - type of honey made out of grape 
    
