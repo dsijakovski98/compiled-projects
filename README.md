@@ -21,7 +21,7 @@ I've compiled a list of my favorite projects made using the [ReactJS](https://re
  \- Repo link **[notify-me-RST](https://github.com/dsijakovski98/notify-me-RST)**
 
 #### Technologies/libraries
-* [ReactJS](https://reactjs.org/) - UI
+* [ReactJS](https://reactjs.org/) - JS Framework
 * [Material UI](https://material-ui.com/) - Styled components
 * [Moment.js](https://momentjs.com/) - Date-time library
 * [Firebase](https://firebase.google.com/) - Database, Authentication, Storage
