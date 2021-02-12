@@ -7,26 +7,27 @@ Repo containing links to fun projects hosted on [Github Pages](https://pages.git
 ## Quick introduction
 
 Hi there! :wave: My name is **[Даниел Шијаковски](https://github.com/dsijakovski98)** and I am a 4th year student at the Faculty of Electrical Engineering and Information Technologies - [FEIT](https://feit.ukim.edu.mk/en) . \
-I've compiled a list of my favorite projects made using the [ReactJS](https://reactjs.org/) and [p5.js](https://p5js.org/) JavaScript libraries.
+I've compiled a list of my favorite projects made using the [ReactJS](https://reactjs.org/) and [p5.js](https://p5js.org/) JavaScript libraries, as well as the [Android Studio](https://developer.android.com/studio) IDE.
 
 
 ###### Currently working on a web site for a chemical and food products company - Аква Дејон Плус
 ---
 
 * ## ReactJS projects
-### 1. Melo D - find the lyrics to all your favorite songs
+### 1. Notify-Me - web app for notifications on local services
    
- This quick project was a good practice for me to learn the ins and 
- outs of using React Hooks to make API calls in a clean and efficient way.
+ Notify-Me is a web app made as part of my college course in Software Development and Testing. Made entirely in React, this app enables users to subscribe to companies that offer (electricity, plumbing or Internet) services in their communities. It is a kind of central hub for all the news that these companies post, as well as a place where users can be notified of potential service shortages in their cities, so that they can be informed and prepare for any inconveniences in time.
 
- \- Repo link **[melo-d-app repo](https://github.com/dsijakovski98/melo-d-app/)**
+ \- Repo link **[notify-me-RST](https://github.com/dsijakovski98/notify-me-RST)**
 
 #### Technologies/libraries
 * [ReactJS](https://reactjs.org/) - UI
-* [RapidAPI](https://rapidapi.com/) - API
-* [Axios](https://www.npmjs.com/package/axios) - npm package for making HTTP calls
+* [Material UI](https://material-ui.com/) - Styled components
+* [Moment.js](https://momentjs.com/) - Date-time library
+* [Firebase](https://firebase.google.com/) - Database, Authentication, Storage
 
-#### Github Pages hosting at the following link **[Melo D app](https://dsijakovski98.github.io/melo-d-app/)**
+#### Github Pages hosting at the following link **[Notify-Me](https://dsijakovski98.github.io/notify-me-RST/)**
+
 
 ### 2. Popovi winery - web site for a Macedonian winery
    
@@ -42,12 +43,28 @@ This project is a remake of an already existing hosted site [link here](http://w
 
 #### Github Pages hosting at the following link **[Popovi Winery](https://dsijakovski98.github.io/popovi-winery/)**
 
+
+### 3. Melo D - find the lyrics to all your favorite songs
+   
+ This quick project was a good practice for me to learn the ins and 
+ outs of using React Hooks to make API calls in a clean and efficient way.
+
+ \- Repo link **[melo-d-app repo](https://github.com/dsijakovski98/melo-d-app/)**
+
+#### Technologies/libraries
+* [ReactJS](https://reactjs.org/) - UI
+* [RapidAPI](https://rapidapi.com/) - API
+* [Axios](https://www.npmjs.com/package/axios) - npm package for making HTTP calls
+
+#### Github Pages hosting at the following link **[Melo D app](https://dsijakovski98.github.io/melo-d-app/)**
+
+
 ### 3. ~~ToDo-app~~ 
 #####  No To-Do app, due to market saturation :smile:
 ----
 
 * ## HTML5-CSS3-JS projects
-### 1. Divinium Prime - web site for a Macedonian company selling *маџун*
+### 4. Divinium Prime - web site for a Macedonian company selling *маџун*
 
 ###### **Маџун** - type of honey made out of grape 
    
