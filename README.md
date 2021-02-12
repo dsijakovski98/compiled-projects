@@ -84,7 +84,7 @@ Android mobile app for making reservations of parking spots all around the count
 
 Android mobile forum app. Connecting students from **[FEIT](http://www.feit.ukim.edu.mk/)**, this app helps them get their questions answered by a community of commited students. A student can subscribe to a multitude of courses and ask questions about those courses (exercises, exam questions etc.), as well as answer/comment to other students' questions. This app was made as part of my college course in Android Programming 101, and will be my final thesis for graduating.
 
-\- Repo link **[Parks & Recs](https://github.com/dsijakovski98/parks-and-recs-app)**
+\- Repo link **[Students 4 Students](https://github.com/dsijakovski98/students-4-students-app)**
 
 ### Technologies/libraries
 
