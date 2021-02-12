@@ -59,7 +59,7 @@ This project is a remake of an already existing hosted site [link here](http://w
 #### Github Pages hosting at the following link **[Melo D app](https://dsijakovski98.github.io/melo-d-app/)**
 
 
-### 3. ~~ToDo-app~~ 
+### 4. ~~ToDo-app~~ 
 #####  No To-Do app, due to market saturation :smile:
 ----
 
