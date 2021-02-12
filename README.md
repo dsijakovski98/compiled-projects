@@ -1,4 +1,4 @@
-# ReactJS & p5.js projects
+# Projects (Android, ReactJs, p5.js)
 
 Repo containing links to fun projects hosted on [Github Pages](https://pages.github.com/)
 
@@ -63,6 +63,33 @@ This web site is also a part of the project in collaboration with [Creative Hub]
 * [lightbox.js](https://github.com/lokesh/lightbox2) - JavaScript library for image gallery
 
 #### Github Pages hosting at the following link **[Divinium Prime](https://dsijakovski98.github.io/divinium-prime-madzun/)**
+
+---
+
+* ## Android projects
+
+### 1. Parks & Recs - Parking spot reservation app
+
+Android mobile app for making reservations of parking spots all around the country (currently limited only to North Macedonia cities). This app was made as part of my college course in Android Programming 101
+
+\- Repo link **[Parks & Recs](https://github.com/dsijakovski98/parks-and-recs-app)**
+
+### Technologies/libraries
+
+* [Android Studio](https://developer.android.com/studio) - IDE
+* [SQLite](https://sqlite.org/index.html) - Local backend database
+
+
+### 2. Students 4 Students - Forum app
+
+Android mobile forum app. Connecting students from **[FEIT](http://www.feit.ukim.edu.mk/)**, this app helps them get their questions answered by a community of commited students. A student can subscribe to a multitude of courses and ask questions about those courses (exercises, exam questions etc.), as well as answer/comment to other students' questions. This app was made as part of my college course in Android Programming 101, and will be my final thesis for graduating.
+
+\- Repo link **[Parks & Recs](https://github.com/dsijakovski98/parks-and-recs-app)**
+
+### Technologies/libraries
+
+* [Android Studio](https://developer.android.com/studio) - IDE
+* [Firebase](https://firebase.google.com/) - Database, Authentication, Storage
 
 ---
 
