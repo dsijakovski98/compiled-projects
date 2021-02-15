@@ -26,7 +26,7 @@ I've compiled a list of my favorite projects made using the [ReactJS](https://re
 * [Moment.js](https://momentjs.com/) - Date-time library
 * [Firebase](https://firebase.google.com/) - Database, Authentication, Storage
 
-#### Github Pages hosting at the following link **[Notify-Me](https://dsijakovski98.github.io/notify-me-RST/)**
+#### Netlify hosting at the following link **[Notify-Me](https://notify-me-rst.netlify.app/notify-me-RST)**
 
 
 ### 2. Popovi winery - web site for a Macedonian winery
