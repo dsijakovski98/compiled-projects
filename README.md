@@ -1,4 +1,4 @@
-# Projects (Android, ReactJs, p5.js)
+# Projects (ReactJs, Android, p5.js)
 
 Repo containing links to fun projects hosted on [Github Pages](https://pages.github.com/)
 
@@ -182,7 +182,7 @@ This is my third and (for now) final project following the ***old school video g
 This project is an implementation of a classic genetic algorithm. Particles (fireflies) are trying to reach the goal by learning to move through the space on the screen. You can place obstacles for the fireflies by creating rectangles with click-and-drag.
 
 
- \- Repo link **[Fireflies-GeneticAlgorithm](https://github.com/dsijakovski98/Fireflies-GeneticAlgorithm)**
+ \- Repo link **[fireflies](https://github.com/dsijakovski98/fireflies)**
 
 #### Technologies/libraries
 
@@ -191,7 +191,7 @@ This project is an implementation of a classic genetic algorithm. Particles (fir
 * [JavaScript](https://www.javascript.com/) - Programming logic
 
 
-#### Github Pages hosting at the following link **[Fireflies](https://dsijakovski98.github.io/Fireflies-GeneticAlgorithm/)**
+#### Github Pages hosting at the following link **[Fireflies](https://dsijakovski98.github.io/fireflies/)**
 
 ---
 
