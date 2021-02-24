@@ -10,7 +10,7 @@ Hi there! :wave: My name is **[Даниел Шијаковски](https://github
 I've compiled a list of my favorite projects made using the [ReactJS](https://reactjs.org/) and [p5.js](https://p5js.org/) JavaScript libraries, as well as the [Android Studio](https://developer.android.com/studio) IDE.
 
 
-###### Currently working on a web site for a chemical and food products company - Аква Дејон Плус
+###### Currently: working on a ReactJS web site for a chemical and food products company - Аква Дејон Плус, learning Node.js
 ---
 
 * ## ReactJS projects
