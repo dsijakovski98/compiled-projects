@@ -13,8 +13,8 @@ I've compiled a list of my favorite projects made using the [ReactJS](https://re
 ###### Currently: working on a ReactJS web site for a chemical and food products company - Аква Дејон Плус, learning Node.js
 ---
 
-* ## ReactJS projects
-### 1. Notify-Me - web app for notifications on local services
+* # ReactJS projects
+## 1. Notify-Me - web app for notifications on local services
    
  Notify-Me is a web app made as part of my college course in Software Development and Testing. Made entirely in React, this app enables users to subscribe to companies that offer (electricity, plumbing or Internet) services in their communities. It is a kind of central hub for all the news that these companies post, as well as a place where users can be notified of potential service shortages in their cities, so that they can be informed and prepare for any inconveniences in time.
 ###### Not yet optimized for mobile phones
@@ -30,7 +30,7 @@ I've compiled a list of my favorite projects made using the [ReactJS](https://re
 #### Netlify hosting at the following link **[Notify-Me](https://notify-me-rst.netlify.app/notify-me-RST)**
 
 
-### 2. Popovi winery - web site for a Macedonian winery
+## 2. Popovi winery - web site for a Macedonian winery
    
  This website is a part of a project involving my college and [Creative Hub](https://www.creativehub.mk/) - Web Design and Development Academy. 5 students (including me) were given a local company to make a web site for.   
 This project is a remake of an already existing hosted site [link here](http://www.popoviwine.com/index.html).
@@ -45,7 +45,7 @@ This project is a remake of an already existing hosted site [link here](http://w
 #### Github Pages hosting at the following link **[Popovi Winery](https://dsijakovski98.github.io/popovi-winery/)**
 
 
-### 3. Melo D - find the lyrics to all your favorite songs
+## 3. Melo D - find the lyrics to all your favorite songs
    
  This quick project was a good practice for me to learn the ins and 
  outs of using React Hooks to make API calls in a clean and efficient way.
@@ -60,12 +60,12 @@ This project is a remake of an already existing hosted site [link here](http://w
 #### Github Pages hosting at the following link **[Melo D app](https://dsijakovski98.github.io/melo-d-app/)**
 
 
-### 4. ~~ToDo-app~~ 
+## 4. ~~ToDo-app~~ 
 #####  No To-Do app, due to market saturation :smile:
 ----
 
-* ## HTML5-CSS3-JS projects
-### 1. Divinium Prime - web site for a Macedonian company selling *маџун*
+* # HTML5-CSS3-JS projects
+## 1. Divinium Prime - web site for a Macedonian company selling *маџун*
 
 ###### **Маџун** - type of honey made out of grape 
    
@@ -84,9 +84,9 @@ This web site is also a part of the project in collaboration with [Creative Hub]
 
 ---
 
-* ## Android projects
+* # Android projects
 
-### 1. Parks & Recs - Parking spot reservation app
+## 1. Parks & Recs - Parking spot reservation app
 
 Android mobile app for making reservations of parking spots all around the country (currently limited only to North Macedonia cities). This app was made as part of my college course in Android Programming 101
 
@@ -98,7 +98,7 @@ Android mobile app for making reservations of parking spots all around the count
 * [SQLite](https://sqlite.org/index.html) - Local backend database
 
 
-### 2. Students 4 Students - Forum app
+## 2. Students 4 Students - Forum app
 
 Android mobile forum app. Connecting students from **[FEIT](http://www.feit.ukim.edu.mk/)**, this app helps them get their questions answered by a community of commited students. A student can subscribe to a multitude of courses and ask questions about those courses (exercises, exam questions etc.), as well as answer/comment to other students' questions. This app was made as part of my college course in Android Programming 101, and will be my final thesis for graduating.
 
@@ -111,11 +111,11 @@ Android mobile forum app. Connecting students from **[FEIT](http://www.feit.ukim
 
 ---
 
-* ## p5.js projects
+* # p5.js projects
 **[p5.js](https://p5js.org)** is, as defined by its creators
 > a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else!
 
-### 1. Space Invaders - Atari video game remake  
+## 1. Space Invaders - Atari video game remake  
    
 My first ever attempt at making a video game, this is a 3 level, 2D, shoot 'em up game made entirely using JavaScript. I was inspired to make this while watching my namesake and favourite programmer, Daniel Shiffman a.k.a. [The Coding Train](https://thecodingtrain.com/).
 
@@ -130,7 +130,7 @@ My first ever attempt at making a video game, this is a 3 level, 2D, shoot 'em u
 #### Github Pages hosting at the following link **[Space Invaders](https://dsijakovski98.github.io/Space-Invaders-game/game.html)**
 
 
-### 2. Tetris - oldie but goldie  
+## 2. Tetris - oldie but goldie  
 
 Not much to say about this one. The legendary game of Tetris made using JavaScript.
 
@@ -145,7 +145,7 @@ Not much to say about this one. The legendary game of Tetris made using JavaScri
 #### Github Pages hosting at the following link **[Tetris](https://dsijakovski98.github.io/my_Tetris/)**
 
 
-### 3. Connect-4 - strategy board game 
+## 3. Connect-4 - strategy board game 
 
 Another classic video game remake: connect 4 pods in a row (either horizontally, vertically or diagonally) to win the game!
 
@@ -162,7 +162,7 @@ Another classic video game remake: connect 4 pods in a row (either horizontally,
 #### Github Pages hosting at the following link **[Connect 4](https://dsijakovski98.github.io/Connect-4/)**
 
 
-### 4. Minesweeper - yet another evergreen game
+## 4. Minesweeper - yet another evergreen game
 
 This is my third and (for now) final project following the ***old school video games*** theme. 
 
@@ -178,7 +178,7 @@ This is my third and (for now) final project following the ***old school video g
 #### Github Pages hosting at the following link **[Minesweeper](https://dsijakovski98.github.io/Minesweeper/)**
 
 
-### 5. Fireflies - genetic algorithm implementation example
+## 5. Fireflies - genetic algorithm implementation example
 
 This project is an implementation of a classic genetic algorithm. Particles (fireflies) are trying to reach the goal by learning to move through the space on the screen. You can place obstacles for the fireflies by creating rectangles with click-and-drag.
 
