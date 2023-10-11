@@ -1,10 +1,4 @@
-# Projects
-
-Repo containing links to fun projects hosted on [Github Pages](https://pages.github.com)
-
----
-
-## Quick introduction
+# Quick introduction
 
 Hi there! :wave: \
 My name is **[Daniel Shijakovski](https://github.com/dsijakovski98)** and I'm a Software Developer. \
@@ -12,13 +6,11 @@ I've compiled a list of some of the projects I've made during my college days, a
 
 ---
 
-* # React projects
+# React projects
 
 ## Notify-Me - web app for notifications on local services
 
- Notify-Me is a web app made as part of my college course in Software Development and Testing.
- 
-###### Not yet optimized for mobile devices
+Notify-Me is a web app made as part of my college course in Software Development and Testing.
 
 Repo **[notify-me](https://github.com/dsijakovski98/notify-me)**
 
@@ -27,7 +19,7 @@ Repo **[notify-me](https://github.com/dsijakovski98/notify-me)**
 * [Material UI](https://material-ui.com) - Styled components
 * [Firebase](https://firebase.google.com) - Database & Backend
 
-### Check out **[Notify-Me](https://notify-me.netlify.app)**
+#### Check out **[Notify-Me](https://notify-me.netlify.app)**
 
 
 ## Popovi winery - web site for a Macedonian winery
@@ -41,15 +33,16 @@ Repo **[popovi-winery repo](https://github.com/dsijakovski98/popovi-winery/)**
 * [React-Bootstrap](https://react-bootstrap.github.io) - Styling
 * [styled-components](https://styled-components.com) - Styling
 
-### Check out **[Popovi Winery](https://dsijakovski98.github.io/popovi-winery/)**
+#### Check out **[Popovi Winery](https://dsijakovski98.github.io/popovi-winery/)**
 
 ## ~~ToDo-app~~ 
 #####  No To-Do app, due to market saturation :smile:
+
 ----
 
-* # HTML5-CSS-JS projects
+# HTML5-CSS-JS projects
 
-## Divinium Prime - web site for a Macedonian company selling *маџун*
+## Divinium Prime - web site for a Macedonian company selling *маџун /majun/*
 
 > **Маџун** - type of honey made out of grape 
 
@@ -67,7 +60,7 @@ Repo **[divinium-prime-madzun](https://github.com/dsijakovski98/divinium-prime-m
 
 ---
 
-* # Android projects
+# Android projects
 
 ## Parks & Recs - Parking spot reservation app
 
@@ -94,7 +87,7 @@ Repo **[Students 4 Students](https://github.com/dsijakovski98/students-4-student
 
 ---
 
-* # p5.js projects
+# p5.js projects
 **[p5.js](https://p5js.org)** is, as defined by its creators:
 > a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else!
 
@@ -175,7 +168,7 @@ Repo **[Minesweeper](https://github.com/dsijakovski98/Minesweeper/)**
 
 ---
 
-## Inspiration
+# Inspiration
 
 Just a quick list of the people/channels I've been inspired by throughout my programming journey
 
