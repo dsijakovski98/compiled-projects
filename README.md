@@ -10,21 +10,21 @@ I've compiled a list of some of the projects I've made during my college days, a
 
 These repos are a collection of different kinds of components and pages that I've built to practice and sharpen my skills as a web developer.
 
-## Frontend Mentor projects
+## Frontend Mentor
 
-Collection of repositories of practice projects from [Frontend Mentor](https://www.frontendmentor.io/).
+Collection of practice projects repositories from [Frontend Mentor](https://www.frontendmentor.io/).
 
 Repo **[frontend-mentor-projects](https://github.com/dsijakovski98/frontend-mentor-projects)**
 
-## Frontend Practice projects
+## Frontend Practice
 
-Collection of repositories of practice projects from [Frontend Practice](https://www.frontendpractice.com/).
+Collection of practice projects repositories from [Frontend Practice](https://www.frontendpractice.com/).
 
 Repo **[frontend-practice-projects](https://github.com/dsijakovski98/frontend-practice-projects/)**
 
-## Codewell projects
+## Codewell
 
-Collection of repositories of practice projects from [Codewell](https://www.codewell.cc/).
+Collection of practice projects repositories from [Codewell](https://www.codewell.cc/).
 
 Repo **[codewell-projects](https://github.com/dsijakovski98/codewell-projects)**
 
