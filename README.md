@@ -2,7 +2,7 @@
 
 Hi there! :wave: \
 My name is **[Daniel Shijakovski](https://github.com/dsijakovski98)** and I'm a Web Developer. \
-I've compiled a list of some of the projects I've made during my college days, as well as while practicing my skills, both for learning purposes and some just for fun!
+I've compiled a list of some of the projects I've made during my days at university, as well as while practicing my skills - both for learning purposes and some even just for fun!
 
 ---
 
