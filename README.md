@@ -8,7 +8,7 @@ I've compiled a list of some of the projects I've made during my days at univers
 
 # Practice projects
 
-These repos are a collection of different kinds of components and pages that I've built to practice and sharpen my skills as a web developer.
+These repos are a collection of different kinds of components and pages that I've built to practice and sharpen my skills as a Web Developer.
 
 ## Frontend Mentor
 
