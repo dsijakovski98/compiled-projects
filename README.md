@@ -6,6 +6,48 @@ I've compiled a list of some of the projects I've made during my days at univers
 
 ---
 
+# Featured projects
+
+## FEIT Code - online coding exams platform
+
+<img width="1710" alt="Screenshot 2025-02-04 at 11 00 04 AM" src="https://github.com/user-attachments/assets/f9edcc16-7c3f-4593-a466-4bef0d19fcf8" />
+
+<br/><br/>
+
+<img width="1708" alt="Screenshot 2025-02-04 at 11 01 10 AM" src="https://github.com/user-attachments/assets/9ae37eca-5435-4d0d-9375-5e9a44889b84" />
+
+
+FEIT Code is an application created as a part of my Bachelor Thesis - aimed at creating a better experience for students taking and professors conducting programming exams.
+
+#### Repos
+[FEIT Code App](https://github.com/dsijakovski98/feit-code-app)
+[FEIT Code Website](https://github.com/dsijakovski98/feit-code-web)
+[FEIT Code API](https://github.com/dsijakovski98/feit-code-runner)
+
+#### Technology
+
+##### FEIT Code App
+* [React](https://react.dev) + [Vite](https://vite.dev) + [TypeScript](https://www.typescriptlang.org)
+* [Clerk](https://clerk.com)
+* [HeroUI](https://www.heroui.com)
+* [Neon PostgreSQL](https://neon.tech/home) + [Drizzle ORM](https://orm.drizzle.team)
+* [Firebase Storage](https://firebase.google.com/docs/storage) + [Firebase Realtime Database](https://firebase.google.com/docs/database)
+
+##### FEIT Code Website
+* [Astro](https://astro.build) + [React](https://react.dev) + [TypeScript](https://www.typescriptlang.org)
+* [Astrolicious i18n](https://astro-i18n.netlify.app)
+* [EmailJS](https://www.emailjs.com)
+
+##### FEIT Code API
+* [Golang](https://go.dev)
+* [Docker](https://www.docker.com)
+* [Docker Engine SDK](https://docs.docker.com/reference/api/engine/sdk)
+
+#### Check out [FEIT Code](https://feitcode.com)
+#### Check out the [FEIT Code App](https://app.feitcode.com)
+
+---
+
 # Practice projects
 
 These repos are a collection of different kinds of components and pages that I've built to practice and sharpen my skills as a Web Developer.
