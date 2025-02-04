@@ -16,6 +16,7 @@ I've compiled a list of some of the projects I've made during my days at univers
 
 <img width="1708" alt="Screenshot of the FEIT Code Application" src="https://github.com/user-attachments/assets/9ae37eca-5435-4d0d-9375-5e9a44889b84" />
 
+<br/><br/>
 
 FEIT Code is an application created as a part of my Bachelor Thesis - aimed at creating a better experience for students taking and professors conducting programming exams.
 
